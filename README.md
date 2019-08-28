@@ -42,3 +42,8 @@ Sẽ luôn update và cập nhật theo [framework](https://github.com/serenity-
 - Automated Software Testing Fan page [ở đây](https://www.facebook.com/selenium.vietnam)
 - Skype Group [ở đây](https://join.skype.com/RhAs3UPbzxcs)
 
+# Blog
+### Test Automation Misconceptions
+- Chẳng có gì miễn phí [ở đây](https://github.com/Jacobvu84/serenity-screenplay-junit-webdriver/wiki) cả
+
+
