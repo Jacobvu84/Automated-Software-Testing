@@ -35,7 +35,7 @@ Sẽ luôn update và cập nhật theo [framework](https://github.com/serenity-
   * [serenity-screenplay](https://github.com/Jacobvu84/serenity-screenplay-junit-webdriver/issues) phù hợp cho đối có kinh nghiệm trên 1 năm. [Video tutorial](https://www.youtube.com/playlist?list=PLpTCO0Fa9GR1Wq7BW_MpR9ttm3Fl0s2Ik)
   
 ##### Appium   
-- Các khoá học từ basic - advanced dành cho automated testing trên web  
+- Các khoá học từ basic - advanced dành cho automated testing trên Mobile   
   * serenity-screenplay:  phù hợp cho đối có kinh nghiệm trên 1 năm. Chỉ nhận học sinh ở khu vực Hồ Chí Minh,học trực tiếp vì chưa có video.
 
 ##### Others
