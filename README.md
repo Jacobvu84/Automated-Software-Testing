@@ -12,8 +12,8 @@
 - Tránh việc bị làm phiền trong thời gian làm việc bởi các chủ đề không liên hoặc không quan tâm  qua nên thiết lập chế độ tắt notification push và setting các từ mà các bạn muốn được mentioned ( nhắc). 
   * [Q&A] [QA] đằng trước các câu hỏi
 - Các đặt câu hỏi nên rõ ràng, khuyến khích việc dùng trình quản lý issue để post và quản lý. 
-  * Issue tracker: https://github.com/Jacobvu84/Automated-Software-Testing/issue
-
+  * Issue tracker: https://github.com/Jacobvu84/Automated-Software-Testing/issues
+  
 ## Teaching automated web testing online
 
 ### Một số video free hướng dẫn cơ bản.
