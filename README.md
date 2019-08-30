@@ -2,7 +2,6 @@
 ## Code of conduct
 #### Hành vi ứng xử 
 - Không bàn luận các vấn đề nhạy cảm như tôn giáo, chính trị, giới tính nhất là chủ đề 18+....
-- Không chấp nhận cho Headhunter hay HR tham gia dải job nhưng cho phép thành viên chia sẻ thông tin cơ hội việc làm
 - Không gửi các link quảng cáo, bán hàng "siêu liên kết", đa cấp.
 - Không nên có những lời nói miệt thị khả năng hay năng lực, danh dự của người khác nhất là với phụ nữ kiểu như: 
    * Con gái mà... 
