@@ -41,6 +41,7 @@ Sẽ luôn update và cập nhật theo [framework](https://github.com/serenity-
 ##### Others
 - Automated Software Testing Fan page [ở đây](https://www.facebook.com/selenium.vietnam)
 - Skype Group [ở đây](https://join.skype.com/RhAs3UPbzxcs)
+- Discord Room [ở đây](https://discord.gg/3Dc9m4d)
 
 # Blog
 ### Test Automation Misconceptions
