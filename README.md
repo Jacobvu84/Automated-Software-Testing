@@ -2,6 +2,7 @@
 ## Code of conduct
 #### Hành vi ứng xử 
 - Không bàn luận các vấn đề nhạy cảm như tôn giáo, chính trị, giới tính nhất là chủ đề 18+....
+- Không thu thập confidential information như email, phone, tiền lương, tên công ty, địa chỉ nhà...
 - Không gửi các link quảng cáo, bán hàng "siêu liên kết", đa cấp.
 - Không nên có những lời nói miệt thị khả năng hay năng lực, danh dự của người khác nhất là với phụ nữ kiểu như: 
    * Con gái mà... 
@@ -16,7 +17,7 @@
 ## Teaching automated web testing online
 
 ### Một số video free hướng dẫn cơ bản.
-- Java webdriver free [ở đây](https://www.youtube.com/playlist?list=PLpTCO0Fa9GR3ir1xpFXqSVX61SaYShspy)
+- Java webdriver free [ở đây](https://github.com/Jacobvu84/Automated-Software-Testing/issues?q=is%3Aopen+is%3Aissue+label%3A%22selenium+webdriver%22)
 - C# webdriver free [ở đây](https://www.youtube.com/playlist?list=PLpTCO0Fa9GR1vOx_-YInGAPi8RZqpXFjZ)
 - Docker basic [ở đây](https://www.youtube.com/playlist?list=PLpTCO0Fa9GR24nAWmrYR4qt43oDwWS-Qi)
 - Xpath case study [ở đây](https://www.youtube.com/playlist?list=PLpTCO0Fa9GR3QfiFocwoj0Gvu-o16YBDa)
