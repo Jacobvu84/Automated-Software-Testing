@@ -4,9 +4,7 @@
 - Không bàn luận các vấn đề nhạy cảm như tôn giáo, chính trị, giới tính nhất là chủ đề 18+....
 - Không thu thập confidential information như email, phone, tiền lương, tên công ty, địa chỉ nhà...
 - Không gửi các link quảng cáo, bán hàng "siêu liên kết", đa cấp.
-- Không nên có những lời nói miệt thị khả năng hay năng lực, danh dự của người khác nhất là với phụ nữ kiểu như: 
-   * Con gái mà... 
-   * Con gái thì nên làm .... cho dễ  
+- Không nên có những lời nói miệt thị khả năng hay năng lực, danh dự của người khác. 
 
 #### Nhưng việc nên làm 
 - Tránh việc bị làm phiền trong thời gian làm việc bởi các chủ đề không liên hoặc không quan tâm  qua nên thiết lập chế độ tắt notification push và setting các từ mà các bạn muốn được mentioned ( nhắc). 
