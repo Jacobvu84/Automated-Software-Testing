@@ -36,11 +36,6 @@ Sẽ luôn update và cập nhật theo [framework](https://github.com/serenity-
 - Các khoá học từ basic - advanced dành cho automated testing trên Mobile   
   * serenity-screenplay:  phù hợp cho đối có kinh nghiệm trên 1 năm. Chỉ nhận học sinh ở khu vực Hồ Chí Minh,học trực tiếp vì chưa có video.
 
-##### Others
-- Automated Software Testing Fan page [ở đây](https://www.facebook.com/selenium.vietnam)
-- Skype Group. liên hệ admin: Skype - vu.the.linh ( tên là Jacob Vu) 
-- Discord Room [ở đây](https://discord.gg/3Dc9m4d)
-
 # Blog
 ### Test Automation Misconceptions
 - Chẳng có gì miễn phí [ở đây](https://github.com/Jacobvu84/serenity-screenplay-junit-webdriver/wiki) cả
